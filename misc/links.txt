@@ -1,0 +1,26 @@
+HAMU2025
+
+Sogitec 4X - Wikipedia
+https://en.wikipedia.org/wiki/Sogitec_4X
+
+wikiC/2.06: Sogitec 4X
+https://web.archive.org/web/20131104025834/http://knorretje.hku.nl/wiki/Sogitec_4X
+
+Pierre Boulez and Andrew Gerzso: Computers in Music. <!--#IF EXPR="$DOCUMENT_NAME = /-e.html/" -->IRCAM Multimedia Library<!--#ELSE -->Médiathèque de l'Ircam<!--#ENDIF --> © Ircam, 1996-2008 - <!--#IF EXPR="$DOCUMENT_NAME = /-e.html/" -->Research Institute in Acoustics and Music<!--#ELSE -->Institut de Recherche et Coordination Acoustique/Musique <!--#ENDIF -->- Paris, France
+http://articles.ircam.fr/textes/Boulez88c/
+
+https://digitalmusicacademy.online/sites/default/files/content/mathews-1963.pdf
+https://digitalmusicacademy.online/sites/default/files/content/mathews-1963.pdf
+
+https://ccrma.stanford.edu/files/papers/stanm37.pdf
+https://ccrma.stanford.edu/files/papers/stanm37.pdf
+
+Max at Seventeen 1
+https://msp.ucsd.edu/Publications/dartmouth-reprint.dir/
+
+Article: Max Mathews: An Appreciation | Cycling '74
+https://cycling74.com/articles/max-mathews-an-appreciation
+
+Max Mathews: The First Computer Musician - The New York Times
+https://archive.nytimes.com/opinionator.blogs.nytimes.com/2011/06/08/the-first-computer-musician/
+
