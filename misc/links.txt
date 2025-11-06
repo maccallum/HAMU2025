@@ -24,3 +24,8 @@ https://cycling74.com/articles/max-mathews-an-appreciation
 Max Mathews: The First Computer Musician - The New York Times
 https://archive.nytimes.com/opinionator.blogs.nytimes.com/2011/06/08/the-first-computer-musician/
 
+OSC in Max:
+https://www.youtube.com/watch?v=g_iFQQ5TT1E
+
+OpenSoundControl:
+https://opensoundcontrol.stanford.edu/spec-1_0.htmln
